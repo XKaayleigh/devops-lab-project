@@ -1,0 +1,4 @@
+remote_ec2_user: ubuntu
+duckdns_domain: kayleigh-staging
+instance_type: t2.small
+region: us-east-1
